@@ -1,16 +1,16 @@
-<table align="center">
+<table align="center" border="0" style="border-collapse: collapse;">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border: none;">
       <h1>👋 Hi, I'm Blake</h1>
-      <h3 style="color: #e0a5e4;">All about me</h3>
+      <h3>All about me</h3>
       <p>I'm a Master's of Computer Science candidate at the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a>.</p>
       <p>I've worked on a data science team @ <a href="https://www.caterpillar.com/">Caterpillar Inc.</a> for two years; and in that time I've garnered a good deal of experience both creating models and engineering software into production.</p>
       <p>My end goal is to combine my skillsets into one medium and become a machine learning engineer.</p>
     </td>
-    <td width=5%>
+    <td width=5% style="border: none;">
         <p></p>
     </td>
-    <td width=45% valign="top">
+    <td width=45% valign="top" style="border: none;">
       <h1>📌 Recent projects</h1>
       <!-- <img src="assets/8bit Profile Picture.png"> -->
       <a href="https://github.com/eskin22/CompoundInterestCalculator">
@@ -22,13 +22,11 @@
 
 # 🔨 Tools
 
-<h3 style="color: #e0a5e4"> 
-Languages I've learned, packages I prefer, and frameworks I'm fond of
-</h3>
+### Languages I've learned, packages I prefer, and frameworks I'm fond of
 
-<table align="center">
+<table align="center" border="0" style="border-collapse: collapse;">
     <tr>
-        <td style="text-align: center;" width="40%" valign="top">
+        <td align="center" style="text-align: center; border: none;" width="40%" valign="top">
             <h3>Data Science & Analysis</h3>
             <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
             <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
@@ -42,7 +40,7 @@ Languages I've learned, packages I prefer, and frameworks I'm fond of
             <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
             <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
         </td>
-        <td style="text-align: center;" width="40%" valign="top">
+        <td align="center" style="text-align: center; border: none;" width="40%" valign="top">
             <h3>Development</h3>
             <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
             <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -64,9 +62,7 @@ Languages I've learned, packages I prefer, and frameworks I'm fond of
 
 # 📌 Recent projects
 
-<h3 style="color: #e0a5e4"> 
-Some cool things I've been working on
-</h3>
+### Some cool things I've been working on
 
 <a href="https://github.com/eskin22/CompoundInterestCalculator" style="text-decoration: none; color: inherit">
 <div align="center" width="90%">
@@ -80,9 +76,7 @@ Some cool things I've been working on
 
 # 📫 Contact
 
-<h3 style="color: #e0a5e4"> 
-You can connect with me at these places
-</h3>
+### You can connect with me at these places
 
 <br>
 
