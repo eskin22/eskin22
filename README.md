@@ -1,18 +1,21 @@
 <table align="center">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h1>👋 Hi, I'm Blake</h1>
       <h3 style="color: #e0a5e4;">All about me</h3>
       <p>I'm a Master's of Computer Science candidate at the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a>.</p>
       <p>I've worked on a data science team @ <a href="https://www.caterpillar.com/">Caterpillar Inc.</a> for two years; and in that time I've garnered a good deal of experience both creating models and engineering software into production.</p>
       <p>My end goal is to combine my skillsets into one medium and become a machine learning engineer.</p>
     </td>
-    <td width=10%>
+    <td width=5%>
         <p></p>
     </td>
-    <td width=40%>
-      <!-- Your image -->
-      <img src="assets/8bit Profile Picture.png">
+    <td width=45% valign="top">
+      <h1>📌 Recent projects</h1>
+      <!-- <img src="assets/8bit Profile Picture.png"> -->
+      <a href="https://github.com/eskin22/CompoundInterestCalculator">
+        <img src="assets/CompoundInterestCalculatorWebImage.png">
+      </a>
     </td>
   </tr>
 </table>
