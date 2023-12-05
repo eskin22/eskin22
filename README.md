@@ -10,9 +10,9 @@
     <td width=10%>
         <p></p>
     </td>
-    <td>
+    <td width=40%>
       <!-- Your image -->
-      <img src="assets/8Bit Profile Picture.png">
+      <img src="assets/8bit Profile Picture.png">
     </td>
   </tr>
 </table>
